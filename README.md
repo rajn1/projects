@@ -14,6 +14,6 @@ Class Projects:
 
 Personal Projects:
 
-- Website code for rajnarayan.info
+- Website code for rajnarayan.info [This code is currently Public]
 - Pecan: Team project for Hack Beanpot [This code is currently Public]
 - MyNEU Facial Recognition App {Coming Soon!}
